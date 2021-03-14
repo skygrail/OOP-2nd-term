@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfFlat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Flat>
+    <footage>23</footage>
+    <numOfRooms>3</numOfRooms>
+    <yearOfConstruction>25 февраля 2021 г.</yearOfConstruction>
+    <floor>8</floor>
+    <kitchen>-</kitchen>
+    <bathroom>Ванная</bathroom>
+    <basement>Подвал</basement>
+    <balcony>-</balcony>
+    <material>Дерево</material>
+    <address>
+      <country>Беларусь</country>
+      <city>Минск</city>
+      <street>Советская</street>
+      <house>12</house>
+      <flat>6</flat>
+    </address>
+  </Flat>
+</ArrayOfFlat>

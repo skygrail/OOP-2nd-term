@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<ArrayOfFlat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Flat>
+    <footage>68</footage>
+    <numOfRooms>4</numOfRooms>
+    <yearOfConstruction>31 января 2021 г.</yearOfConstruction>
+    <floor>9</floor>
+    <price>272</price>
+    <kitchen>-</kitchen>
+    <bathroom>Ванная</bathroom>
+    <basement>-</basement>
+    <balcony>Балкон</balcony>
+    <material>Бетон</material>
+    <address>
+      <country>Беларусь</country>
+      <city>Слуцк</city>
+      <street>Главная</street>
+      <house>67</house>
+      <flat>4</flat>
+    </address>
+  </Flat>
+</ArrayOfFlat>
